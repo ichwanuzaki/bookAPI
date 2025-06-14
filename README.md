@@ -17,20 +17,22 @@ A simple RESTful API built with Hapi.js framework for learning purposes.
 - Nodemon (for development)
 
 ## Installation
-
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/ichwanuzaki/bookAPI.git
    cd bookAPI
+   ```
 
-2. Install dependencies:
+Install dependencies:
    ```bash
    npm i @hapi/hapi
    npm i nanoid
+   ```
 
-4. Run the server:
+Run the server:
    ```bash
    npm start
+   ```
 
 For development with auto-restart:
    ```bash
