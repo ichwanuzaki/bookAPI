@@ -35,7 +35,8 @@ A simple RESTful API built with Hapi.js framework for learning purposes.
 For development with auto-restart:
    ```bash
    npm run start-dev
+   ```
 
+## License
 
-License: 
-This project is licensed under the ISC License.
+This project is licensed under the [ISC License](LICENSE)
