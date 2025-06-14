@@ -11,10 +11,10 @@ A simple RESTful API built with Hapi.js framework for learning purposes.
 
 ## Technologies Used
 
-- [Node.js]
+- Node.js
 - [Hapi.js](https://hapi.dev/) framework
 - [Nanoid](https://github.com/ai/nanoid) for ID generation
-- [Nodemon] (for development)
+- Nodemon (for development)
 
 ## Installation
 
