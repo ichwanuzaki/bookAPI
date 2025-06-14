@@ -24,14 +24,17 @@ A simple RESTful API built with Hapi.js framework for learning purposes.
    cd bookAPI
 
 2. Install dependencies:
-npm i @hapi/hapi
-npm i nanoid
+   ```bash
+   npm i @hapi/hapi
+   npm i nanoid
 
-3. Run the server:
-npm start
+4. Run the server:
+   ```bash
+   npm start
 
 For development with auto-restart:
-npm run start-dev
+   ```bash
+   npm run start-dev
 
 
 License: 
